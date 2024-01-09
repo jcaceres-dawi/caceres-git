@@ -1,2 +1,3 @@
 Scott Chacon and Ben Straub. Pro Git. Apress.
+Ryan Hodson. RY's Git Tutorial.Samshwords (2014)
 Loeliger, J. and McCullough, M. Version control with Git. O'Reilly.
