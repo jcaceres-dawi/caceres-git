@@ -1,1 +1,2 @@
 Scott Chacon and Ben Straub. Pro Git. Apress.
+Ryan Hodson. RY's Git Tutorial.Samshwords (2014)
